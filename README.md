@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-Moi, MariSill lyhenteellä löytyy IoT perusteet-opintojaksolta.
-<Olen konetekniikan opiskelija LABissa ja en tiedä miksi olen tällä kurssilla kun ikinä ei ole tullut koodattua, jee.
+Moi, MariSill lyhenteellä löytyy IoT perusteet-opintojaksolta.  
+Olen konetekniikan opiskelija LABissa ja en tiedä miksi olen tällä kurssilla kun ikinä ei ole tullut koodattua, jee.
 <!--
 **MariSill/MariSill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
